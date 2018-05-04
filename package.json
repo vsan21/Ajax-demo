@@ -1,0 +1,16 @@
+{
+  "name": "ajax-practice",
+  "version": "1.0.0",
+  "description": "practicing ajax",
+  "main": "ajax.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "npm": "^6.0.0",
+    "request": "^2.85.0"
+  }
+}
